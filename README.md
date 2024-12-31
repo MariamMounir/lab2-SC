@@ -10,7 +10,7 @@
 To list all tags in your local repository, use the following command:
 ```bash
 git tag
-'''
+```
 
 ## 3-How Delete a Tag Locally and Remotely
 ### 1-Delete a Tag Locally
