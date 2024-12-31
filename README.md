@@ -20,8 +20,16 @@ git tag -d <tagname>
 ```
 
 ### 2-Delete a Tag Remotaly
+To delete the tag from the remote repository, first, delete it locally (as shown above). Then, run:
+```bash
+git push origin --delete <tagname>
+```
 
+## 4-What is Git Rebase?
+git rebase is a command used to reapply commits on top of another base tip. It is commonly used to keep a clean, linear project history by integrating changes from one branch into another.
 
+## 5-image
+![Alt text](img/gb.jpg)
 
 
 
