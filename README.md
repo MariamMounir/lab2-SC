@@ -6,6 +6,11 @@
 ### 1. Delete Files remotly
 - Push the change to Remote Repository
 
+## 2-How to list tags
+To list all tags in your local repository, use the following command:
+```bash
+git tag
+
 
 
 
