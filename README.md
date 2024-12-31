@@ -29,7 +29,7 @@ git push origin --delete <tagname>
 git rebase is a command used to reapply commits on top of another base tip. It is commonly used to keep a clean, linear project history by integrating changes from one branch into another.
 
 ## 5-image
-![Alt text](img\gb.jpg)
+![Alt text](./img/gb.jpg)
 
 
 
